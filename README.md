@@ -18,3 +18,5 @@ Analyzed Overall Sales Performance.
 Compared Sales Across Different Outlet Types.
 Analyzed Item Categories  and their Contribution to Sales.
 Used Interactive Filters for Better Analysis.
+## Dashboard Preview
+![Blinkit Sales Dashboard](dashboard.png)
